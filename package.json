@@ -1,0 +1,12 @@
+{
+  "name": "azure-app-service-lab",
+  "version": "1.0.0",
+  "description": "Azure App Service deployment lab",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
